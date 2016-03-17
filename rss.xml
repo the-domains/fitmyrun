@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Fitmyrun]]></title>
         <description><![CDATA[Fitmyrun]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fitmyrun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 22:09:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 22:15:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fitmyrun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[L'amorti: Saint Graal ou supercherie?]]></title>
+            <description><![CDATA[<article><h1>L'amorti: Saint Graal ou supercherie?</h1><p>C'est un peu à celle qui aura le plus performant ! Mais à quoi sert-il au juste ? En position statique lorsque l'on essaie une chaussure il est là pour rassurer notre subconscient : " j'ai entendu quelque part que c'était bien pour éviter les problème de dos, de genoux, de machin ".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3115f5b3e9ae649d3050987f78c7791130f6718a.jpg"></article>]]></description>
+            <link>http://blog.fitmyrun.fr/lamorti-dune-chaussure-running-un-confort-malsain/</link>
+            <guid isPermaLink="false">df89de1d-73fe-41a5-8f4d-f194fb1648b7</guid>
+            <pubDate>Thu, 17 Mar 2016 22:15:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mon conseiller en équipement running en ligne - Fitmyrun]]></title>
-            <description><![CDATA[<article><h1>Mon conseiller en équipement running en ligne - Fitmyrun</h1><p>Il te suffit simplement de remplir ton profil running et tes objectifs et nous te donnons des conseils en équipement running personnalisés.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f926290181e6038d86be3f7caba4198047c52bc1.jpg"></article>]]></description>
-            <link>undefinedmon-conseiller-en-equipement-running-en-ligne-fitmyrun/index.html</link>
+            <description><![CDATA[<article><h1>Mon conseiller en équipement running en ligne - Fitmyrun</h1><p>Il te suffit simplement de remplir ton profil running et tes objectifs et nous te donnons des conseils en équipement running personnalisés.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34197c46672435fb9a8183125817625d2846055b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fitmyrun/mon-conseiller-en-equipement-running-en-ligne-fitmyrun/index.html</link>
             <guid isPermaLink="false">6262b268-1b1b-4227-890e-46f964f7aece</guid>
             <pubDate>Thu, 17 Mar 2016 22:09:39 GMT</pubDate>
         </item>
