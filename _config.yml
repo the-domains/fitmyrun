@@ -1,7 +1,7 @@
 name: Fitmyrun
 favicon: null
-layout_spectrum: 0.16822234960272908
-typography_spectrum: 0.7724236859939992
+layout_spectrum: 0.99663
+typography_spectrum: 0.50511
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.38913553836755455
-  lightness: 0.781251527601853
-  saturation: 0.8897444528993219
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.75
   rhythmicContrast: 0.43666386138647795
 purpose: []
