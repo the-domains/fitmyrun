@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fitmyrun]]></title>
+        <description><![CDATA[Fitmyrun]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 22:09:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mon conseiller en équipement running en ligne - Fitmyrun]]></title>
+            <description><![CDATA[<article><h1>Mon conseiller en équipement running en ligne - Fitmyrun</h1><p>Il te suffit simplement de remplir ton profil running et tes objectifs et nous te donnons des conseils en équipement running personnalisés.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f926290181e6038d86be3f7caba4198047c52bc1.jpg"></article>]]></description>
+            <link>undefinedmon-conseiller-en-equipement-running-en-ligne-fitmyrun/index.html</link>
+            <guid isPermaLink="false">6262b268-1b1b-4227-890e-46f964f7aece</guid>
+            <pubDate>Thu, 17 Mar 2016 22:09:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
